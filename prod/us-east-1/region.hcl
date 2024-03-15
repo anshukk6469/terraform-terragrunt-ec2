@@ -1,3 +1,3 @@
 locals {
-  aws_region = "us-east-1"
+  tag_name = "prod"
 }
